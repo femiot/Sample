@@ -16,7 +16,7 @@ namespace Sample.Web.Controllers
 
         public void Initialize()
         {
-
+            // I think this is get interesting...
         }
     }
 }
