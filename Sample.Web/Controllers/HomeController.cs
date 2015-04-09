@@ -13,5 +13,10 @@ namespace Sample.Web.Controllers
         {
             return View();
         }
+
+        public void Initialize()
+        {
+
+        }
     }
 }
